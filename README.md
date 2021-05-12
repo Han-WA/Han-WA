@@ -14,9 +14,11 @@ I am an app developer from Myanmar. I like using mobile app technology when it c
 
 ### ⚙️ Tool
 <p>
+<img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge" />
 <img alt="AndroidStudio" src="https://img.shields.io/badge/AndroidStudio-05c46b?logo=android-studio&logoColor=white&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-454545?logo=github&logoColor=white&style=for-the-badge" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🤝🏻 Reach Me Out
