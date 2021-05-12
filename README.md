@@ -19,7 +19,7 @@ I am an app developer from Myanmar. I like using mobile app technology when it c
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🤝🏻 Reach me out
+### 🤝🏻 Reach Me Out
 <p>
  <a href="www.linkedin.com/in/hanwa">
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" />
