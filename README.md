@@ -2,7 +2,7 @@
 
 ### About me
 
-I am an app developer from Myanmar. I like using mobile app technology when it comes to approaching social problems. I love apps.
+I am an app developer from Myanmar. I am a big fan of mobile app technology when it comes to approaching social problems. I love apps.
 
 
 ### 🔧 Tech Stack
