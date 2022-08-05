@@ -24,13 +24,13 @@ I am an app developer from Myanmar. I am a big fan of mobile app technology when
 
 ### 🤝🏻 Reach Me Out
 <p>
- <a href="www.linkedin.com/in/hanwa">
+ <a href="https://www.linkedin.com/in/hanwa">
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
  <a href="www.instagram.com/han_winn_aung/">
    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
- <a href="hanwinaung@uy.edu.mm">
+ <a href="hanwinaung.dev@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Mail-EA2027?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge" />
   </a>
 </p>
