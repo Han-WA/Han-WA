@@ -2,14 +2,14 @@
 
 ### About me
 
-I am an app developer from Myanmar. I am a big fan of mobile app technology when it comes to approaching social problems. I love apps.
+I am a data enthusiast, a big fan of Data Science, AI, and Machine Learning.
 
 
 ### 🔧 Tech Stack
 <p>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-<img alt="Dart" src="https://img.shields.io/badge/Dart-00a8ff?logo=dart&logoColor=white&style=for-the-badge" />
 <img alt="Python" src="https://img.shields.io/badge/Python-44bd32?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-00a8ff?logo=dart&logoColor=white&style=for-the-badge" />
 </p>
 
 ### ⚙️ Tool
