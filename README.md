@@ -2,13 +2,13 @@
 
 ### About me
 
-I am a data enthusiast, a big fan of Data Science, AI, and Machine Learning.
+I am a data enthusiast, and a big fan of Data Science, AI, and Machine Learning.
 
 
 ### 🔧 Tech Stack
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-44bd32?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-02569B?logo=sql&logoColor=white&style=for-the-badge" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-02569B?logo=mysql&logoColor=white&style=for-the-badge" />
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-00a8ff?logo=tableau&logoColor=white&style=for-the-badge" />
 </p>
 
